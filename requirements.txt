@@ -1,0 +1,2 @@
+pip install telebot flask aiogram pyTelegramBotAPI python-telegram-bot
+pip install telebot pymongo aiohttp psutil motor pytz asyncssh
