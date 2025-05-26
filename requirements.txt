@@ -9,3 +9,4 @@ psutil
 motor
 pytz
 asyncssh
+nest_asyncio
